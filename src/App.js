@@ -1,9 +1,10 @@
 import './App.css';
+import Button from '@mui/material/Button';
 
 function App() {
   return (
     <div className="App">
-      ok then
+      <Button variant='contained'>hello noob</Button>
     </div>
   );
 }
