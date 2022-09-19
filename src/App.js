@@ -1,10 +1,10 @@
-import './App.css';
-import Button from '@mui/material/Button';
+// import './App.css';
+import Blog from './Blog' 
 
 function App() {
   return (
     <div className="App">
-      <Button variant='contained'>hello noob</Button>
+      <Blog />
     </div>
   );
 }
